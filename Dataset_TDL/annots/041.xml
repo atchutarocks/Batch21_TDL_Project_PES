@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DCIO-201306-20IFT-20PROJECT-20CENTRAL-204_0001_page-0002_jpg.rf.c8dfd9d2167acb1e99110b894c9a6af0.jpg</filename>
+	<path>DCIO-201306-20IFT-20PROJECT-20CENTRAL-204_0001_page-0002_jpg.rf.c8dfd9d2167acb1e99110b894c9a6af0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Signature</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>460</xmin>
+			<xmax>608</xmax>
+			<ymin>494</ymin>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
